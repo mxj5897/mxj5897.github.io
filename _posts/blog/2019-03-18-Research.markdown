@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Research"
+date:   2019-03-18 22:59:48
+categories: blog
+---
+
+**CREU Research**
+
+Our team proposes a simplified form of Mixture Density Networks (MDNs) to produce a one-shot approach to quantify uncertainty in regression problems with high dimensional complex data. We apply the above method to several toy datasets and to several celebrity face datasets for age estimation. Additionally, we extend the above methodology to infinite Mixture Density Networks (iMDNs) which we apply to video datasets.
+
+My contributions to the work was developing a proof that demonstrates that our proposed lost function converges on a global minimum, and applying the methodology to the toy and celebrity datasets.
+
+**Discrete Microfluidics Lab**
+
+
+*Recapturing lost energy through vibrational energy harvesters*
+
+A lot of energy is lost in everyday processes such as driving to work. Only about **25% of the energy stored in gasoline goes towards propelling a car forward** What if there was a way to reclaim some of this lost energy?
+
+**Energy Harvesters are devices that recapture energy lost to a system's environment.**
+
+Under the direction of Dr. Michael Schertzer, I worked with three undergraduates and a graduate student to create ionic liquid gel beads polymerized under UV light. The gel beads were intended to be used as a substrate in a vibrational energy harvesting device. My contribution to the project was developing a Matlab program which calculates the curvature of the beads, designing and machining a test stand to measure bead stiffness, and conducting an analysis of bead formation conditions.
+
+I presented the team's findings at RIT's Undergraduate Research Symposium and helped co-author a paper, [Effects of Chemical Composition on the Electromechanical Properties of Microfluidically Synthesized Hydrogel Beads]() published in the *ASME Journal of Fluid Engineering*.
+
+<img itemprop="image" src="http://res.cloudinary.com/dc1pxuvzn/image/upload/c_fill,w_760/v1535651362/Ad%20Astra/symposium_poster.jpg" alt="Research Poster">
